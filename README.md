@@ -41,23 +41,13 @@
 - 📊 [Pandas Data Science Tasks – EDA](https://github.com/Snehaty/Pandas-Data-Science-Tasks--using--EDA)  
   Applied exploratory data analysis (EDA) on real-world datasets using pandas, matplotlib, and seaborn.
 
+- 📈 [Stock Price Prediction Model](https://github.com/Snehaty/Stock_Price_Prediction_Model)  
+  Developed a deep learning model using LSTM to forecast stock prices based on historical data trends.
+  
+- 📦 [AI Course Builder](https://github.com/Snehaty/ai-course-builder)  
+  Tool that generates personalized AI/ML course content using LLM APIs and prompt engineering. Includes login system, export to PDF, and frontend with Tailwind CSS.
 - 💡 More projects coming soon...
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehaty&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehaty&theme=radical" alt="Streak Stats"/>
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:sneha@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
