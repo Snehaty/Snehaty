@@ -29,14 +29,16 @@
 
 ---
 
-### 🔥 Open Source Contributions
+
+
+
+
+
+
+### 💼 Personal Projects
 
 - 💾 [MK10UNoY/DatasetRefinement](https://github.com/MK10UNoY/DatasetRefinement)  
   Contributed to data preprocessing and documentation cleanup in a collaborative open-source data pipeline.
-
----
-
-### 💼 Personal Projects
 
 - 📊 [Pandas Data Science Tasks – EDA](https://github.com/Snehaty/Pandas-Data-Science-Tasks--using--EDA)  
   Applied exploratory data analysis (EDA) on real-world datasets using pandas, matplotlib, and seaborn.
